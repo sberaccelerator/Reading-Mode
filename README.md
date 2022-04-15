@@ -29,3 +29,4 @@
     - [ ] http://edurobots.ru/2022/04/kpk-rro-inno/?utm_source=pocket_mylist
     - [ ] https://pikabu.ru/story/za_komnatnyiy_vozdukhoochistitel_prosyat_2549_tyisyach_a_ya_sobral_za_640_rubley_8958982?utm_source=pocket_mylist
     - [ ] https://habr.com/ru/post/332130/
+Если хочешь посмотреть, как они в итоге должны выглядеть, то открой их в Pocket
